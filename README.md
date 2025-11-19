@@ -1,5 +1,5 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-## Name : BARATHRSJ K
+## Name : BARATHRAJ K
 ## Register Number : 212224230033
 # Algorithm or Steps Involved:
 <ol>
