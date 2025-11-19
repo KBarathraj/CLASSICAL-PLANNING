@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-## Name : K Santhan Kumar
-## Register Number : 212223240065
+## Name : BARATHRSJ K
+## Register Number : 212224230033
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
